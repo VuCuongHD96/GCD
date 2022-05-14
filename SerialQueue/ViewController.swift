@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  GCD
+//  SerialQueue
 //
 //  Created by sun on 14/05/2022.
 //
@@ -9,11 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let operationQueue = OperationQueue()
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        let operation = Operation()
+        // Do any additional setup after loading the view.
     }
+
+
 }
+
