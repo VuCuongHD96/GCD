@@ -9,11 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let operationQueue = OperationQueue()
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        let operation = Operation()
     }
-
-
 }
-
